@@ -1,0 +1,9 @@
+#locationInfo {
+  background-color: #d4e6ff;
+  padding: 10px;
+  width: 300px;
+}
+
+#locationInfo.hidden {
+  display: none;
+}

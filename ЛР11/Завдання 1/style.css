@@ -1,0 +1,40 @@
+img{
+  width: 200px;
+  height: 200px;
+}
+
+.loadDogImages{
+  margin: 20px;
+  font-size: 24px;
+  background-color: rgb(122 0 165);
+  padding: 19px;
+  width: 158px;
+  color: white;
+  border-radius: 9px;
+  outline: 5px dashed white;
+  outline-offset: -13px;
+}
+
+.loadDogImages:hover{
+  margin: 20px;
+  font-size: 24px;
+  background-color: rgb(79, 0, 107);
+  padding: 19px;
+  width: 158px;
+  color: white;
+  border-radius: 9px;
+  outline: 5px solid white;
+  outline-offset: -13px;
+}
+
+.loadDogImages:active{
+  margin: 20px;
+  font-size: 24px;
+  background-color: rgb(0, 0, 0);
+  padding: 19px;
+  width: 158px;
+  color: white;
+  border-radius: 9px;
+  outline-offset: -13px;
+
+}

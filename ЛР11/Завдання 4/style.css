@@ -1,0 +1,11 @@
+#timer {
+    margin: 20px;
+    font-size: 44px;
+    background-color: rgb(122 0 165);
+    padding: 19px;
+    width: 158px;
+    color: white;
+    border-radius: 9px;
+    outline: 5px dashed white;
+    outline-offset: -13px;
+}
